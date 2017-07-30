@@ -1,0 +1,1 @@
+# SchoolManager-Server-.netCore
